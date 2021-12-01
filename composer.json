@@ -1,0 +1,19 @@
+{
+    "name": "leofranca47/microservices-common",
+    "description": "Package Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leofranca47\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo franca",
+            "email": "leoprofissional@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
